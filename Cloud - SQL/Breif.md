@@ -1,5 +1,6 @@
 Google Cloud SQL – Fully Managed Relational Database Service
-Google Cloud SQL is a fully managed relational database service that allows you to run databases in the cloud without worrying about infrastructure management. It simplifies database administration by handling backups, replication, updates, scaling, security, and maintenance.
+Google Cloud SQL is a fully managed relational database service that allows you to run databases in the cloud without worrying about infrastructure management. 
+It simplifies database administration by handling backups, replication, updates, scaling, security, and maintenance.
 Supported Database Engines
 Cloud SQL supports the following popular relational database engines:
 	• MySQL
@@ -8,7 +9,8 @@ Cloud SQL supports the following popular relational database engines:
 
 Key Features and Benefits
 1. High Availability & Reliability
-	• Automatic failover across zones → Ensures that if one availability zone goes down, the database automatically switches to a standby replica in another zone.
+	• Automatic failover across zones → Ensures that if one availability zone goes down, 
+	  the database automatically switches to a standby replica in another zone.
 	• Service Level Agreements (SLA) for uptime: 
 		○ 99.99% availability → For business-critical transactional workloads.
 		○ 99.95% availability → If you want lower costs with slightly less uptime.
