@@ -1,5 +1,6 @@
 Google Cloud SQL – Fully Managed Relational Database Service
 Google Cloud SQL is a fully managed relational database service that allows you to run databases in the cloud without worrying about infrastructure management. 
+
 It simplifies database administration by handling backups, replication, updates, scaling, security, and maintenance.
 Supported Database Engines
 Cloud SQL supports the following popular relational database engines:
